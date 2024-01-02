@@ -1,3 +1,4 @@
+using FeatureFlagService.Model;
 using LaunchDarkly.Sdk;
 using LaunchDarkly.Sdk.Client;
 using ConfigurationBuilder = LaunchDarkly.Sdk.Client.ConfigurationBuilder;

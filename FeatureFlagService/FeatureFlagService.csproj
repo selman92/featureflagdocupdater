@@ -10,5 +10,6 @@
     <ItemGroup>
         <PackageReference Include="LaunchDarkly.ClientSdk" Version="5.0.0-alpha.2" />
         <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0"/>
+        <PackageReference Include="RestSharp" Version="110.2.1-alpha.0.16" />
     </ItemGroup>
 </Project>
