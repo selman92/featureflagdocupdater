@@ -43,9 +43,6 @@
 - LaunchDarkly SDK
 - Confluence API Client
 
-## Deployment
-Supports standard .NET deployment methods and Docker containerization
-
 ## How It Works
 - Periodically retrieves feature flags from LaunchDarkly
 - Compares current flag states with previous states
